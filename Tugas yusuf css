@@ -1,0 +1,205 @@
+.nav1 {
+
+    background-color: rgb(230, 230, 230); 
+
+    padding: 15px;
+
+}
+
+.ul1 {
+
+    display: flex ; 
+
+    list-style-type: none;
+
+}
+
+.bc1 { margin-right: 35px ;
+
+}
+
+.bc2 { margin-left: 80px; 
+
+    margin-right: 35px ;
+
+}
+
+.bc3 { margin-right: 35px ;
+
+}
+
+.bc5  { margin-left: auto; 
+
+    margin-right: 10px ;}
+
+.bc6 { margin-right: 0;
+
+}
+
+.tb1 {
+
+    width: 100%;
+
+}
+
+.tb2 {
+
+    border-collapse: collapse;
+
+}
+
+.th1 { 
+
+    width: 150px ;
+
+    border-top: 1px solid ; 
+
+    border-bottom: 1px solid;
+
+    text-align: left;
+
+}
+
+.th2 {
+
+    width: 150px ; 
+
+    border-bottom: 1px solid;
+
+    text-align: left;
+
+}
+
+.td1 {
+
+    text-align: left ;
+
+    padding: 20px;
+
+}
+
+.td2 {
+
+    text-align: center;
+
+}
+
+.td3 {
+
+    border-bottom: 1px solid;
+
+}
+
+.td4 {
+
+    text-align: left;
+
+    border-left: 1px solid; 
+
+    background-color: rgb(230, 230, 230);
+
+}
+
+.td5 {
+
+    text-align: right;
+
+    border-right: 1px solid;
+
+    background-color: rgb(230, 230, 230);
+
+}
+
+.td6 {
+
+    text-align: left; 
+
+    border-left: 1px solid;
+
+    border-bottom: 1px solid ; 
+
+    background-color: rgb(230, 230, 230);
+
+}
+
+.td7 {
+
+    text-align: left; 
+
+    border-right: 1px solid ;
+
+    border-bottom: 1px solid ; 
+
+    background-color: rgb(230, 230, 230);
+
+}
+
+.h41 {
+
+    margin-bottom: 1px;
+
+}
+
+.h42 {
+
+    margin-top: 1px; 
+
+    margin-bottom: 1px;
+
+}
+
+.th3 {
+
+    text-align: justify; 
+
+    border-top: 1px solid; 
+
+    border-left: 1px solid; 
+
+    background-color: rgb(230, 230, 230);
+
+}
+
+.th4 {
+
+    text-align: justify; 
+
+    border-top: 1px solid; 
+
+    border-right: 1px solid; 
+
+    background-color: rgb(230, 230, 230);
+
+}
+
+.i1 {
+
+    width: 170px;
+
+}
+
+.su1 {
+
+    width: 75px; 
+
+    color: white; 
+
+    background-color: blue;
+
+}
+
+.su2 {
+
+    color: white; 
+
+    background-color: red;
+
+}
+
+.ft1 {
+
+    background-color: darkgrey;
+
+    padding: 3px;
+
+}kami
